@@ -1,0 +1,18 @@
+{
+  "name": "spline-book-host",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@splinetool/react-spline": "^0.9.16"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
